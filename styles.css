@@ -1,0 +1,98 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 2% 5%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #307672;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+/* Sign in Buttons */
+
+.btn {
+  margin: 5% auto;
+}
+
+.sections-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-top: 3%;
+}
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #307672;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #144d53;
+}
+
+#features p {
+  color: #8f8f8f;
+}
+
+/* Jumbotron */
+.jumbotron {
+  color: #fff;
+  height: 500px;
+  background-image: url("images/clothes.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 60px;
+  padding: 7%;
+  text-shadow: #1a3c40 1px 0 10px;
+}
+/* Footer Section */
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+#footer p {
+  color: #8f8f8f;
+}
